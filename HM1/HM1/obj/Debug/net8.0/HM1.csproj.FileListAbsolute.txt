@@ -1,0 +1,14 @@
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\bin\Debug\net8.0\HM1.exe
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\bin\Debug\net8.0\HM1.deps.json
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\bin\Debug\net8.0\HM1.runtimeconfig.json
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\bin\Debug\net8.0\HM1.dll
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\bin\Debug\net8.0\HM1.pdb
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.AssemblyInfoInputs.cache
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.AssemblyInfo.cs
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.csproj.CoreCompileInputs.cache
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.dll
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\refint\HM1.dll
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.pdb
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\HM1.genruntimeconfig.cache
+C:\Users\BigTasty\Desktop\JetBrains\System\HM1\HM1\HM1\obj\Debug\net8.0\ref\HM1.dll
